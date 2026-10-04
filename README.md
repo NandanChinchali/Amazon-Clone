@@ -21,10 +21,10 @@ This project was developed as a frontend practice project to strengthen my under
 
 ## Tech Stack
 
-- **HTML** – Page structure and semantic elements
-- **CSS** – Styling, layouts, Flexbox, spacing, and responsiveness
-- **Font Awesome** – Icons
-- **VS Code** – Development environment
+- **HTML** - Page structure and semantic elements
+- **CSS** - Styling, layouts, Flexbox, spacing, and responsiveness
+- **Font Awesome** - Icons
+- **VS Code** - Development environment
 
 ## Project Structure
 
